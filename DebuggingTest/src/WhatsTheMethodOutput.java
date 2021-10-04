@@ -1,0 +1,4 @@
+public class WhatsTheMethodOutput {
+
+    //lkjhlkhlkjh
+}
